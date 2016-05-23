@@ -3,7 +3,7 @@ body {
 	background-image: url("http://hdwallpaperia.com/wp-content/uploads/2013/11/Game-Backgrounds-Wallpaper.jpg");
     background-size: cover;
     background-position: center center;
-	font-family: cursive;
+	font-family: cursive ;
 
 }
 
@@ -40,7 +40,30 @@ body {
 /*Stuff below governs the Explore screen*/
 
 #exploreBody {
-	background-image: url("img/exploreHome1.jpg");
+	background-image: url("http://i.imgur.com/6B65yRU.png");
 	background-position: bottom center;
+    background-size:131%;
+}
 
+#left{
+  height:60px;
+  width:30px; 
+  margin-top:390px;
+}
+#left2{
+  height:60px;
+  width:30px;  
+  margin-top:390px;
+}
+#forward{
+  height:60px;
+  width:30px;  
+   position: absolute;
+    right:-588.5px;
+}
+#right{
+  height:60px;
+  width:30px;  
+   margin-bottom:410px;
+  margin-left:1177px;
 }
