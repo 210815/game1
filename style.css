@@ -45,25 +45,42 @@ body {
     background-size:131%;
 }
 
-#left{
+.left{
   height:60px;
   width:30px; 
   margin-top:390px;
 }
-#left2{
-  height:60px;
-  width:30px;  
-  margin-top:390px;
-}
-#forward{
+.forward{
   height:60px;
   width:30px;  
    position: absolute;
-    right:-588.5px;
+    left:588.5px;
 }
-#right{
+.back{
+  height:60px;
+  width:30px;  
+   position: absolute;
+    left:588.5px;
+}
+.right{
   height:60px;
   width:30px;  
    margin-bottom:410px;
   margin-left:1177px;
 }
+
+
+#forest1Body {
+  background-image: url("img/forest1.jpg");
+  background-position: bottom center;
+margin-top:344px;
+}
+
+
+
+
+
+
+
+
+
